@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project v3",
+"dataUrl": "webgl 2.0.data.unityweb",
+"wasmCodeUrl": "webgl 2.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl 2.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
